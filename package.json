@@ -1,0 +1,13 @@
+{
+  "name": "txtworld",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "express": "latest",
+    "fs": "latest"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  }
+}
