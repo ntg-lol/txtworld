@@ -1,7 +1,12 @@
+html {
+    overflow: hidden;
+}
+
 body {
     margin: 0px;
     background-color: #fbf1c7; /* this allows the bar to not have a white border */
-    color: #3c3836
+    color: #3c3836;
+    overflow: hidden;
 }
 
 #bar {
