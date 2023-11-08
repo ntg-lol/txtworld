@@ -1,8 +1,15 @@
 body {
     margin: 0px;
+    background-color: #fbf1c7; /* this allows the bar to not have a white border */
+    color: #3c3836
 }
 
 #bar {
     margin: 5px;
-    background-color: #f0e5aa;
+    background-color: #fbf1c7;
+}
+
+#canvas {
+    background-color: #282828;
+    border: none;
 }
