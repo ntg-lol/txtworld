@@ -13,7 +13,6 @@ const world = {
         ctx.fillRect(xInPixels, yInPixels, xInPixels, yInPixels + 12);
         ctx.fillStyle = "#ebdbb2";
         ctx.font = "18px Consolas";
-        // world.typeString("hello", xInPixels, yInPixels + 14);
         world.write("hello", xInPixels, yInPixels + 14);
         world.write("!", xInPixels, yInPixels + 14);
     },
